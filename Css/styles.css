@@ -1,7 +1,18 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    color: chocolate;
+    color: rgb(30, 210, 84);
     align-items: center;
     display: flex;
     flex-direction: column;
+}
+#container{
+    width: 400px;
+    border: 2px solid;
+    padding: 20px;
+    border-color: orangered;
+    border-radius: 20px;
+}
+
+#container h1{
+    color: black;
 }
